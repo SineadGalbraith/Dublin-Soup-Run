@@ -1,0 +1,13 @@
+<resources>
+<!--<string name= "google_maps_api">AIzaSyAouzHEZ-T26bZOsXbB8Y201EPKZACa2c0</string>-->
+<string name="app_name">Soup Run Dublin</string>
+<string name="title_activity_location">Map</string>
+<string name="_0_3">0-3</string>
+<string name="_3_6">3-6</string>
+<string name="_6_9">6-9</string>
+<string name="_9_12">9-12</string>
+<string name="_12_15">12-15</string>
+<string name="_15plus">15+</string>
+<string name="_amount">Enter amount of homeless people in your area:</string>
+<string name="logovdp.png">logovdp</string>
+</resources>
