@@ -1,4 +1,4 @@
-# Programming-Project-II
+# Dublin-Soup-Run
 
 For my 2nd year Programming Group Project, we were asked to make an app for the Trinity VDP society soup runs. The aim of the app was to ensure the safety of the volunteers on the soup runs by tracking the amount of people at each location. 
 
